@@ -19,7 +19,7 @@ We startup NTF collections on opensea to bring you health, wealth and happiness,
 ## 4. ChristmasDeer
 [ChristmasDeer](https://opensea.io/collection/christmasdeer) is a collection of 5,000 unique NFTs. MERRY CHRISTMAS~A bunch of Christmas Deers are on their way, are you ready!
 
-[![ChristmasdeerBanner.png](/logo/ChristmasdeerBanner.png)](https://opensea.io/collection/santa-claus-on-the-way)
+[![ChristmasdeerBanner.png](/logo/ChristmasdeerBanner.png)](https://opensea.io/collection/christmasdeer)
 
 Relative links as follows:
 
