@@ -31,8 +31,6 @@ Relative links as follows:
 
 [https://opensea.io/collection/christmasdeer](https://opensea.io/collection/christmasdeer)
 
-------------------------------------------
-
 [https://t.me/NFT_sharing_opensea](https://t.me/NFT_sharing_opensea)
 
 [https://twitter.com/official_wwfem](https://twitter.com/official_wwfem)
