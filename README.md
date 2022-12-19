@@ -36,7 +36,9 @@ We startup NTF collections on opensea to bring you health, wealth and happiness,
 [https://medium.com/@official_wwfem](https://medium.com/@official_wwfem)
 
 [https://www.instagram.com/official_wwfem](https://www.instagram.com/official_wwfem)
+
 --
+
 [https://nftsharing.github.io](https://nftsharing.github.io)
 
 [https://nftsharing.github.io/FiveMenFiveWomen](https://nftsharing.github.io/FiveMenFiveWomen)
