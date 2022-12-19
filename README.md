@@ -28,13 +28,6 @@ We startup NTF collections on opensea to bring you health, wealth and happiness,
 
 Relative links as follows:
 
-[https://opensea.io/collection/bandagemannft](https://opensea.io/collection/bandagemannft)
-
-[https://opensea.io/collection/vacuumbear](https://opensea.io/collection/vacuumbear)
-
-[https://opensea.io/collection/santa-claus-on-the-way](https://opensea.io/collection/santa-claus-on-the-way)
-
-[https://opensea.io/collection/christmasdeer](https://opensea.io/collection/christmasdeer)
 
 [https://t.me/NFT_sharing_opensea](https://t.me/NFT_sharing_opensea)
 
@@ -43,6 +36,8 @@ Relative links as follows:
 [https://medium.com/@official_wwfem](https://medium.com/@official_wwfem)
 
 [https://www.instagram.com/official_wwfem](https://www.instagram.com/official_wwfem)
+
+[https://nftsharing.github.io](https://nftsharing.github.io)
 
 [https://nftsharing.github.io/FiveMenFiveWomen](https://nftsharing.github.io/FiveMenFiveWomen)
 
