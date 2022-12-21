@@ -1,5 +1,5 @@
 # Welcome to Official Homepage of NFTSharing
-We are going to startup more than 1000K NTFs on opensea, to bring you health, wealth and happiness, as follows,
+We startup NTF collections on opensea to bring you health, wealth and happiness, as follows,
  
 ## 1. BandagemanNFT
 [BandagemanNFT](https://opensea.io/collection/bandagemannft) is a collection of 10,000 unique Bandage Man NFTs, which comes from the idea that we always bond ourselves to hard problems, hope to be free and fear to be forward. We hope these NFTs can help us to find the right way and seek the inner-heart peace.
@@ -43,3 +43,5 @@ We are going to startup more than 1000K NTFs on opensea, to bring you health, we
 
 [https://nftsharing.github.io/2](https://nftsharing.github.io/2)
 
+## Target
+Our Target is to list more than 1000K NFTs, with a speed of 5k NFTs per month.
