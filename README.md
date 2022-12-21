@@ -37,8 +37,6 @@ We startup NTF collections on opensea to bring you health, wealth and happiness,
 
 [https://www.instagram.com/nft_sharing_community](https://www.instagram.com/nft_sharing_community)
 
-
-
 [https://nftsharing.github.io](https://nftsharing.github.io)
 
 [https://nftsharing.github.io/2](https://nftsharing.github.io/2)
