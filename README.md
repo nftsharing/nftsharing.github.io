@@ -43,5 +43,5 @@ We startup NTF collections on opensea to bring you health, wealth and happiness,
 
 [https://nftsharing.github.io/2](https://nftsharing.github.io/2)
 
-## Target
+## ■ Target
 We aim to list more than 1000K NFTs, with a speed of 5K per month in one laptop, recently.
