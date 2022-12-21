@@ -26,6 +26,7 @@ We startup NTF collections on opensea to bring you health, wealth and happiness,
 
 [![ChristmasTreeBanner.png](/logo/ChristmasTreeBanner.png)](https://opensea.io/collection/merry-christmas-tree)
 
+## 6. Coming Soon
 
 ## ▪ Relative links as follows:
 
