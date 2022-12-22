@@ -33,12 +33,6 @@ We startup NTF collections on opensea to bring you health, wealth and happiness,
 [<img title="https://twitter.com/official_wwfem" src="/icon/TW.png" width="45px">](https://twitter.com/official_wwfem)
 [<img title="https://t.me/nftsharing_community" src="/icon/M.png" width="45px">](https://t.me/nftsharing_community)
 
-[https://t.me/nftsharing_community](https://t.me/nftsharing_community)
-
-[https://twitter.com/official_wwfem](https://twitter.com/official_wwfem)
-
-[https://medium.com/@official_wwfem](https://medium.com/@official_wwfem)
-
 [https://www.instagram.com/nft_sharing_community](https://www.instagram.com/nft_sharing_community)
 
 [https://nftsharing.github.io](https://nftsharing.github.io)
