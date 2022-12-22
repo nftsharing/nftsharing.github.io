@@ -29,7 +29,7 @@ We startup NTF collections on opensea to bring you health, wealth and happiness,
 
 ## ▪ Relative links as follows:
 
-[![https://t.me/nftsharing_community](/icon/TG.png)](https://t.me/nftsharing_community)
+[<img alt="https://t.me/nftsharing_community" src="/icon/TG.png" width="50px">](https://t.me/nftsharing_community)
 
 [https://t.me/nftsharing_community](https://t.me/nftsharing_community)
 
