@@ -35,8 +35,6 @@ We startup NTF collections on opensea to bring you health, wealth and happiness,
 [<img title="https://www.instagram.com/nft_sharing_community" src="https://nftsharing.github.io/icon/IG.png" width="45px">](https://www.instagram.com/nft_sharing_community)
 
 
-[QQ](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=394973632)
-
 [https://nftsharing.github.io](https://nftsharing.github.io)
 
 [https://nftsharing.github.io/2](https://nftsharing.github.io/2)
