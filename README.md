@@ -34,7 +34,7 @@ We startup NTF collections on opensea to bring you health, wealth and happiness,
 [<img title="https://medium.com/@official_wwfem" src="https://nftsharing.github.io/icon/M.png" width="45px">](https://medium.com/@official_wwfem)
 [<img title="https://www.instagram.com/nft_sharing_community" src="https://nftsharing.github.io/icon/IG.png" width="45px">](https://www.instagram.com/nft_sharing_community)
 
-<a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=394973632"></a>
+<a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=394973632">qq</a>
 
 [https://nftsharing.github.io](https://nftsharing.github.io)
 
