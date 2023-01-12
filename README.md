@@ -31,7 +31,6 @@ We startup NTF collections on opensea to bring you health, wealth and happiness,
 <!--
 [![RabbitBanner.png](/logo/RabbitBanner.png)](https://opensea.io/collection/promotionrabbit)
 -->
-
 [![RabbitBanner.png](https://i.seadn.io/gcs/files/4859431bf9ff714e576d3b52b8794333.png?auto=format&w=2048)](https://opensea.io/collection/promotionrabbit)
 
 
