@@ -28,8 +28,9 @@ We startup NTF collections on opensea to bring you health, wealth and happiness,
 
 ## 6. Promotion Rabbit
 [Promotion Rabbit](https://opensea.io/collection/promotionrabbit) is a collection of 10,000 unique Rabbit NFTs — permanently fixed digital collectibles living on th Ethereum blockchain. In universe, rabbit means increasing, promotion and new generation. Year 2023 is the Rabbit Year (2023.2.4-2024.2.3) and the next is 2035.
-
+<!--
 [![RabbitBanner.png](/logo/RabbitBanner.png)](https://opensea.io/collection/promotionrabbit)
+-->
 
 [![RabbitBanner.png](https://i.seadn.io/gcs/files/4859431bf9ff714e576d3b52b8794333.png?auto=format&w=2048)](https://opensea.io/collection/promotionrabbit)
 
