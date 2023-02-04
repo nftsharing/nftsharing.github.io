@@ -45,4 +45,4 @@ We startup NFT collections on [opensea](https://opensea.io) to bring you health,
 [https://nftsharing.github.io/2](https://nftsharing.github.io/2)
 
 ## ▪ Terms & Conditions
-Before purchasing this NFT, please read carefully the Terms Of Service (http://bit.ly/3HW8017) and the Terms & Conditions specific to this NFT (http://bit.ly/3HXvu6g). This explains all your rights and any restrictions.
+Before purchasing this NFT, please read carefully the [Terms Of Service](https://nftsharing.github.io/terms/) and the [Terms & Conditions](https://nftsharing.github.io/nft-owner-agreement/) specific to this NFT. This explains all your rights and any restrictions.
