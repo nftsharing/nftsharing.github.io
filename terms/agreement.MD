@@ -1,4 +1,4 @@
-NFT OWNER AGREEMENT
+#NFT OWNER AGREEMENT
 This Trump Digital Trading Card (NFT) Owner Agreement (“Owner Agreement”) is entered into by and between NFT INT, LLC (“Licensor”) and the individual or entity that owns an NFT (as defined below) (the “Owner”), and is effective as of the date that the limited license rights in and to the NFT are transferred to the Owner (the “Effective Date”).  This Owner Agreement shall be deemed incorporated into the Website Terms and Conditions (“Site Terms,” and together with this Owner Agreement, the “Agreement”); provided, however, to the extent that anything in this Owner Agreement is inconsistent with the Site Terms, this Owner Agreement shall take precedence.
 
 OWNER ACKNOWLEDGES RECEIPT AND UNDERSTANDING OF THE AGREEMENT, AND AGREES TO BE BOUND BY ITS TERMS, IN THEIR ENTIRETY. OWNER’S ACCEPTANCE OF AN NFT SHALL BE DEEMED OWNER’S ACCEPTANCE OF, AND CONSENT TO BE GOVERNED BY, THE TERMS OF THE AGREEMENT.  IF OWNER DOES NOT AGREE TO BE BOUND BY THE TERMS OF THE AGREEMENT IN THEIR ENTIRETY, THE LICENSE CONTEMPLATED HEREUNDER SHALL AUTOMATICALLY TERMINATE.
