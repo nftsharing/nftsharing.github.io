@@ -32,7 +32,7 @@ We startup NFT collections on [opensea](https://opensea.io) to bring you health,
 [![RabbitBanner.png](https://i.seadn.io/gcs/files/4859431bf9ff714e576d3b52b8794333.png?auto=format&w=2048)](https://opensea.io/collection/promotionrabbit)
 
 
-## ▪ Relative links as follows:
+## ▪ Relative links
 
 [<img title="https://t.me/nftsharing_community" src="https://nftsharing.github.io/icon/TG.png" width="45px">](https://t.me/nftsharing_community)
 [<img title="https://twitter.com/official_wwfem" src="https://nftsharing.github.io/icon/TW.png" width="45px">](https://twitter.com/official_wwfem)
