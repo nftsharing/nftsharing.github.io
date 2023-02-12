@@ -1,12 +1,9 @@
 # Welcome to Official Homepage of NFTSharing
-We startup following NFT collections to bring you health, wealth and happiness.  
-<right>
-[<img title="https://t.me/nftsharing_community" src="https://nftsharing.github.io/icon/TG.png" width="25px">](https://t.me/nftsharing_community)
+We startup following NFT collections to bring you health, wealth and happiness.  [<img title="https://t.me/nftsharing_community" src="https://nftsharing.github.io/icon/TG.png" width="25px">](https://t.me/nftsharing_community)
 [<img title="https://twitter.com/official_wwfem" src="https://nftsharing.github.io/icon/TW.png" width="25px">](https://twitter.com/official_wwfem)
 [<img title="https://medium.com/@official_wwfem" src="https://nftsharing.github.io/icon/M.png" width="25px">](https://medium.com/@official_wwfem)
 [<img title="https://www.instagram.com/nft_sharing_community" src="https://nftsharing.github.io/icon/IG.png" width="25px">](https://www.instagram.com/nft_sharing_community)
 [<img title="https://discord.com/invite/z5VfEZbnSJ" src="https://nftsharing.github.io/icon/Discord.png" width="25px">](https://discord.com/invite/z5VfEZbnSJ)
-</right>
 
 ## 7. Bandageman on Valentine's Day
 [Bandageman on Valentine's Day](https://opensea.io/collection/bandageman-valentine-day) is a collection of 10,000 unique NFTs, which are permanently fixed on Polygon Blockchain. Only 30% of them have a flower background, 10% of them have a love eye and 20% of them have a bunch of roses. We hope that all of holders have funs with them. In near future, the rwaNFT connected to this collection will be launched.
