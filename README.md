@@ -1,13 +1,13 @@
 # Welcome to Official Homepage of NFTSharing
 We startup following NFT collections to bring you health, wealth and happiness.  
 
-<p align="right">
+<p align="right"> </p>
 [<img title="https://t.me/nftsharing_community" src="https://nftsharing.github.io/icon/TG.png" width="25px">](https://t.me/nftsharing_community)
 [<img title="https://twitter.com/official_wwfem" src="https://nftsharing.github.io/icon/TW.png" width="25px">](https://twitter.com/official_wwfem)
 [<img title="https://medium.com/@official_wwfem" src="https://nftsharing.github.io/icon/M.png" width="25px">](https://medium.com/@official_wwfem)
 [<img title="https://www.instagram.com/nft_sharing_community" src="https://nftsharing.github.io/icon/IG.png" width="25px">](https://www.instagram.com/nft_sharing_community)
 [<img title="https://discord.com/invite/z5VfEZbnSJ" src="https://nftsharing.github.io/icon/Discord.png" width="25px">](https://discord.com/invite/z5VfEZbnSJ)
-</p>
+
 
 
 ## 7. Bandageman on Valentine's Day
