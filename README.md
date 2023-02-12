@@ -1,10 +1,10 @@
 # Welcome to Official Homepage of NFTSharing
-We startup NFT collections to bring you health, wealth and happiness, with the aim of listing more than 1000K NFTs in one year.
-[<img title="https://t.me/nftsharing_community" src="https://nftsharing.github.io/icon/TG.png" width="45px">](https://t.me/nftsharing_community)
-[<img title="https://twitter.com/official_wwfem" src="https://nftsharing.github.io/icon/TW.png" width="45px">](https://twitter.com/official_wwfem)
-[<img title="https://medium.com/@official_wwfem" src="https://nftsharing.github.io/icon/M.png" width="45px">](https://medium.com/@official_wwfem)
-[<img title="https://www.instagram.com/nft_sharing_community" src="https://nftsharing.github.io/icon/IG.png" width="45px">](https://www.instagram.com/nft_sharing_community)
-[<img title="https://discord.com/invite/z5VfEZbnSJ" src="https://nftsharing.github.io/icon/Discord.png" width="45px">](https://discord.com/invite/z5VfEZbnSJ)
+We startup NFT collections to bring you health, wealth and happiness.
+[<img title="https://t.me/nftsharing_community" src="https://nftsharing.github.io/icon/TG.png" width="30px">](https://t.me/nftsharing_community)
+[<img title="https://twitter.com/official_wwfem" src="https://nftsharing.github.io/icon/TW.png" width="30px">](https://twitter.com/official_wwfem)
+[<img title="https://medium.com/@official_wwfem" src="https://nftsharing.github.io/icon/M.png" width="30px">](https://medium.com/@official_wwfem)
+[<img title="https://www.instagram.com/nft_sharing_community" src="https://nftsharing.github.io/icon/IG.png" width="30px">](https://www.instagram.com/nft_sharing_community)
+[<img title="https://discord.com/invite/z5VfEZbnSJ" src="https://nftsharing.github.io/icon/Discord.png" width="30px">](https://discord.com/invite/z5VfEZbnSJ)
  
  
 ## 1. BandagemanNFT
