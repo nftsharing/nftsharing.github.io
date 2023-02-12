@@ -1,5 +1,5 @@
 # Welcome to Official Homepage of NFTSharing
-We startup NFT collections to bring you health, wealth and happiness.
+We startup NFT collections to bring you health, wealth and happiness. , with the aim of listing more than 1000K.
 [<img title="https://t.me/nftsharing_community" src="https://nftsharing.github.io/icon/TG.png" width="30px">](https://t.me/nftsharing_community)
 [<img title="https://twitter.com/official_wwfem" src="https://nftsharing.github.io/icon/TW.png" width="30px">](https://twitter.com/official_wwfem)
 [<img title="https://medium.com/@official_wwfem" src="https://nftsharing.github.io/icon/M.png" width="30px">](https://medium.com/@official_wwfem)
