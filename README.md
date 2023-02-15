@@ -1,7 +1,7 @@
 # Welcome to Official Homepage of NFTSharing
 We startup following NFT collections to bring you health, wealth and happiness. 
 
-## 7. Bandageman on Valentine's Day
+## 7. Bandageman on Valentine's Day (lost for a moment)
 [Bandageman on Valentine's Day](https://opensea.io/collection/bandageman-valentine-day) is a collection of 10,000 unique NFTs, which are permanently fixed on Polygon Blockchain. Only 30% of them have a flower background, 10% of them have a love eye and 20% of them have a bunch of roses. We hope that all of holders have funs with them. In near future, the rwaNFT connected to this collection will be launched.
 
 [![banner](https://i.seadn.io/gcs/files/5fb9bab9536ad48d8192ab9b5793c7e4.png?auto=format&w=2048)](https://opensea.io/collection/bandageman-valentine-day)
