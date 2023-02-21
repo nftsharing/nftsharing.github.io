@@ -46,6 +46,8 @@ We startup following NFT collections to bring you health, wealth and happiness.
 [<img title="https://medium.com/@official_wwfem" src="https://nftsharing.github.io/icon/M.png" width="45px">](https://medium.com/@official_wwfem)
 [<img title="https://www.instagram.com/nft_sharing_community" src="https://nftsharing.github.io/icon/IG.png" width="45px">](https://www.instagram.com/nft_sharing_community)
 [<img title="https://discord.com/invite/z5VfEZbnSJ" src="https://nftsharing.github.io/icon/Discord.png" width="45px">](https://discord.com/invite/z5VfEZbnSJ)
+[<img title="https://www.youtube.com/@nftsharing" src="https://nftsharing.github.io/icon/YTB.png" width="45px">](https://www.youtube.com/@nftsharing)
+
 
 [https://nftsharing.github.io](https://nftsharing.github.io)
 
