@@ -1,5 +1,5 @@
-# Welcome to Official Homepage of NFTSharing
-We startup following NFT collections to bring you health, wealth and happiness. 
+# Welcome to Official Homepage of rwaNFT Sharing
+We startup promising Real World Asset NFT (rwaNFT) collections to bring you health, wealth and happiness. 
 
 ## 7. Bandageman on Valentine's Day
 [Bandageman on Valentine's Day](https://opensea.io/collection/bandageman-valentine-day) is a collection of 10,000 unique NFTs, which are permanently fixed on Polygon Blockchain. Only 30% of them have a flower background, 10% of them have a love eye and 20% of them have a bunch of roses. We hope that all of holders have funs with them. In near future, the rwaNFT connected to this collection will be launched.
@@ -42,7 +42,7 @@ We startup following NFT collections to bring you health, wealth and happiness.
 ## ▪ Welcome to join in
 
 [<img title="https://t.me/rwaNFT" src="https://nftsharing.github.io/icon/TG.png" width="45px">](https://t.me/rwaNFT)
-[<img title="https://twitter.com/official_wwfem" src="https://nftsharing.github.io/icon/TW.png" width="45px">](https://twitter.com/official_wwfem)
+[<img title="https://twitter.com/rwaNFTSharing" src="https://nftsharing.github.io/icon/TW.png" width="45px">](https://twitter.com/rwaNFTSharing)
 [<img title="https://medium.com/@official_wwfem" src="https://nftsharing.github.io/icon/M.png" width="45px">](https://medium.com/@official_wwfem)
 [<img title="https://www.instagram.com/nft_sharing_community" src="https://nftsharing.github.io/icon/IG.png" width="45px">](https://www.instagram.com/nft_sharing_community)
 [<img title="https://discord.com/invite/z5VfEZbnSJ" src="https://nftsharing.github.io/icon/Discord.png" width="45px">](https://discord.com/invite/z5VfEZbnSJ)
