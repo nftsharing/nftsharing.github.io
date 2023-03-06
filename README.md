@@ -47,7 +47,10 @@ We startup several Real World Asset NFT (rwaNFT) collections to bring you health
 [<img title="https://www.instagram.com/nft_sharing_community" src="https://nftsharing.github.io/icon/IG.png" width="45px">](https://www.instagram.com/nft_sharing_community)
 [<img title="https://discord.com/invite/z5VfEZbnSJ" src="https://nftsharing.github.io/icon/Discord.png" width="45px">](https://discord.com/invite/z5VfEZbnSJ)
 [<img title="https://www.youtube.com/@nftsharing" src="https://nftsharing.github.io/icon/YTB.png" width="45px">](https://www.youtube.com/@nftsharing)
+
+<!--
 [<img title="https://mirror.xyz/0x33d45E66E55d8f74AFFAda4a29a8f9876f2Bb5E5" src="https://nftsharing.github.io/icon/mirror.ico" width="45px">](https://mirror.xyz/0x33d45E66E55d8f74AFFAda4a29a8f9876f2Bb5E5)
+-->
 
 
 
