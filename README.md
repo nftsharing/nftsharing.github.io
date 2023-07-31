@@ -30,12 +30,12 @@ We startup several Real World Asset NFT (rwaNFT) collections to bring you health
 [![ChristmasdeerBanner.png](https://i.seadn.io/gcs/files/82c186c35310b6e4266b197a12765ba8.png?auto=format&w=2048)](https://opensea.io/collection/christmasdeer)
 
 ## 3. SantaClaus
-[SantaClaus](https://opensea.io/collection/santa-claus-on-the-way) is a collection of 5,000 unique NFTs. MERRY CHRISTMAS~A bunch of bearded Santas are on their way, are you ready!
+[SantaClaus](https://opensea.io/collection/santa-claus-on-the-way) is a collection of 5,000 unique NFTs, which are permanently fixed on Ethereum Blockchain. MERRY CHRISTMAS~A bunch of bearded Santas are on their way, are you ready!
 
 [![BannerSantaClaus.png](https://i.seadn.io/gcs/files/18fe1415fc76766640e8ce80112e0a83.png?auto=format&w=2048)](https://opensea.io/collection/santa-claus-on-the-way) 
 
 ## 2. VacuumBear
-[VacuumBear](https://opensea.io/collection/vacuumbear) is a collection of 10,000 unique NFTs, which comes from the fact that we wear surgical masks all over the world. Masks make a big distance between everyone. In the future, thing will become well that we don't need to live in vacuums, like a VacuumBear. 
+[VacuumBear](https://opensea.io/collection/vacuumbear) is a collection of 10,000 unique NFTs, which are permanently fixed on Ethereum Blockchain. They come from the fact that we wear surgical masks all over the world. Masks make a big distance between everyone. In the future, thing will become well that we don't need to live in vacuums, like a VacuumBear. 
 
 [![banner BannerVacuumBear](https://i.seadn.io/gcs/files/655afdaac4e43fd657ade13dc226d183.png?auto=format&w=2048)](https://opensea.io/collection/vacuumbear)
  
