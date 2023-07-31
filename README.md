@@ -1,6 +1,5 @@
 # Welcome to Official Homepage of NFT Sharing
 We startup several Real World Asset NFT (rwaNFT) collections to bring you health, wealth and happiness firstly. In near future, the rwaNFT connected to these collections will be launched. 
-https://opensea.io/collection/sakyamuninft
 
 ## 8. Sakyamuni NFT Collection
 [Sakyamuni](https://opensea.io/collection/sakyamuninft) is a collection of 10,000 unique Tangka Style NFTs, which are permanently fixed on Ethereum Blockchain. Less than 25% of them have a golden body, 10% of them have a red line and 20% of them have a gold lotus. We hope that all of holders have funs with them. In near future, the rwaNFT connected to this collection will be launched.
