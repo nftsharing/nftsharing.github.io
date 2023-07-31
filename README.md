@@ -20,7 +20,7 @@ We startup several Real World Asset NFT (rwaNFT) collections to bring you health
 
 
 ## 5. Merry Christmas Tree
-[Merry Christmas Tree](https://opensea.io/collection/merry-christmas-tree) is a collection of 5,000 unique NFTs. MERRY CHRISTMAS~A bunch of Christmas Trees are on their way, are you ready!
+[Merry Christmas Tree](https://opensea.io/collection/merry-christmas-tree) is a collection of 5,000 unique NFTs, which are permanently fixed on Polygon Blockchain. MERRY CHRISTMAS~A bunch of Christmas Trees are on their way, are you ready!
 
 [![ChristmasTreeBanner.png](https://i.seadn.io/gcs/files/9ad5eeec6f12703c5595a827a411b89f.png?auto=format&w=2048)](https://opensea.io/collection/merry-christmas-tree)
 
@@ -40,7 +40,7 @@ We startup several Real World Asset NFT (rwaNFT) collections to bring you health
 [![banner BannerVacuumBear](https://i.seadn.io/gcs/files/655afdaac4e43fd657ade13dc226d183.png?auto=format&w=2048)](https://opensea.io/collection/vacuumbear)
  
 ## 1. BandagemanNFT
-[BandagemanNFT](https://opensea.io/collection/bandagemannft) is a collection of 10,000 unique Bandage Man NFTs, which comes from the idea that we always bond ourselves to hard problems, hope to be free and fear to be forward. We hope these NFTs can help us to find the right way and seek the inner-heart peace.
+[BandagemanNFT](https://opensea.io/collection/bandagemannft) is a collection of 10,000 unique Bandage Man NFTs, which are permanently fixed on Polygon Blockchain. They come from the idea that we always bond ourselves to hard problems, hope to be free and fear to be forward. We hope these NFTs can help us to find the right way and seek the inner-heart peace.
 
 [![banner Bandageman1w](https://i.seadn.io/gcs/files/e63d8ecd668032444de0c548257d1faa.png?auto=format&w=2048)](https://opensea.io/collection/bandagemannft)
 
