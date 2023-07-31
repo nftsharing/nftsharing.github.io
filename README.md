@@ -1,4 +1,4 @@
-# Welcome to Official Homepage of rwaNFT Sharing
+# Welcome to Official Homepage of NFT Sharing
 We startup several Real World Asset NFT (rwaNFT) collections to bring you health, wealth and happiness firstly. In near future, the rwaNFT connected to these collections will be launched. 
 https://opensea.io/collection/sakyamuninft
 
