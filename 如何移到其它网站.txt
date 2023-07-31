@@ -1,0 +1,5 @@
+如何移到其它网站：
+1。查看源代码，copy and save as index.html
+2. modified index.html, upload to direct 
+href="/assets/css/style.css?v=a2a5792d4800564ea888acb5ded605f4481353f9"> to  href="style.css?v=a2a5792d4800564ea888acb5ded605f4481353f9">
+3. download http:****/assets/css/style.css to the direct
