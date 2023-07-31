@@ -1,5 +1,12 @@
 # Welcome to Official Homepage of rwaNFT Sharing
 We startup several Real World Asset NFT (rwaNFT) collections to bring you health, wealth and happiness firstly. In near future, the rwaNFT connected to these collections will be launched. 
+https://opensea.io/collection/sakyamuninft
+
+## 8. Sakyamuni NFT Collection
+[Sakyamuni](https://opensea.io/collection/sakyamuninft) is a collection of 10,000 unique Tangka Style NFTs, which are permanently fixed on Ethereum Blockchain. Less than 25% of them have a golden body, 10% of them have a red line and 20% of them have a gold lotus. We hope that all of holders have funs with them. In near future, the rwaNFT connected to this collection will be launched.
+
+[![banner](https://i.seadn.io/gcs/files/d2a6aaa39b107dbf7baa3e88fb019f17.png?auto=format&dpr=1&w=2048)](https://opensea.io/collection/sakyamuninft)
+
 
 ## 7. Bandageman on Valentine's Day
 [Bandageman on Valentine's Day](https://opensea.io/collection/bandageman-valentine-day) is a collection of 10,000 unique NFTs, which are permanently fixed on Polygon Blockchain. Only 30% of them have a flower background, 10% of them have a love eye and 20% of them have a bunch of roses. We hope that all of holders have funs with them. In near future, the rwaNFT connected to this collection will be launched.
