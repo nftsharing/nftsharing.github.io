@@ -2,45 +2,45 @@
 We startup several Real World Asset NFT (rwaNFT) collections to bring you health, wealth and happiness firstly. In near future, the rwaNFT connected to these collections will be launched. 
 
 ## 8. Sakyamuni NFT Collection
-[Sakyamuni](https://opensea.io/collection/sakyamuninft) is a collection of 10,000 unique Tangka Style NFTs, which are permanently fixed on Ethereum Blockchain. Less than 25% of them have a golden body, 10% of them have a red line and 20% of them have a gold lotus. We hope that all of holders have funs with them. In near future, the rwaNFT connected to this collection will be launched.
+[Sakyamuni](https://opensea.io/collection/sakyamuninft) is a collection of 10,000 unique Tangka Style NFTs that are permanently fixed on Ethereum Blockchain. Less than 25% of them have a golden body, 10% of them have a red line and 20% of them have a gold lotus. We hope that all of holders have funs with them. In near future, the rwaNFT connected to this collection will be launched.
 
 [![banner](https://i.seadn.io/gcs/files/d2a6aaa39b107dbf7baa3e88fb019f17.png?auto=format&dpr=1&w=2048)](https://opensea.io/collection/sakyamuninft)
 
 
 ## 7. Bandageman on Valentine's Day
-[Bandageman on Valentine's Day](https://opensea.io/collection/bandageman-valentine-day) is a collection of 10,000 unique NFTs, which are permanently fixed on Polygon Blockchain. Only 30% of them have a flower background, 10% of them have a love eye and 20% of them have a bunch of roses. We hope that all of holders have funs with them. In near future, the rwaNFT connected to this collection will be launched.
+[Bandageman on Valentine's Day](https://opensea.io/collection/bandageman-valentine-day) is a collection of 10,000 unique NFTs that are permanently fixed on Polygon Blockchain. Only 30% of them have a flower background, 10% of them have a love eye and 20% of them have a bunch of roses. We hope that all of holders have funs with them. In near future, the rwaNFT connected to this collection will be launched.
 
 [![banner](https://i.seadn.io/gcs/files/5fb9bab9536ad48d8192ab9b5793c7e4.png?auto=format&w=2048)](https://opensea.io/collection/bandageman-valentine-day)
 
 
 ## 6. Promotion Rabbit
-[Promotion Rabbit](https://opensea.io/collection/promotionrabbit) is a collection of 10,000 unique Rabbit NFTs — permanently fixed digital collectibles living on th Ethereum blockchain. In universe, rabbit means increasing, promotion and new generation. Year 2023 is the Chinese Rabbit Year (2023.2.4-2024.2.3) and the next is 2035. We bless all of you Happy New Year.
+[Promotion Rabbit](https://opensea.io/collection/promotionrabbit) is a collection of 10,000 unique Rabbit NFTs that are permanently fixed on Ethereum Blockchain. In universe, rabbit means increasing, promotion and new generation. Year 2023 is the Chinese Rabbit Year (2023.2.4-2024.2.3) and the next is 2035. We bless all of you Happy New Year.
 
 [![RabbitBanner.png](https://i.seadn.io/gcs/files/4859431bf9ff714e576d3b52b8794333.png?auto=format&w=2048)](https://opensea.io/collection/promotionrabbit)
 
 
 ## 5. Merry Christmas Tree
-[Merry Christmas Tree](https://opensea.io/collection/merry-christmas-tree) is a collection of 5,000 unique NFTs, which are permanently fixed on Ethereum Blockchain. MERRY CHRISTMAS~A bunch of Christmas Trees are on their way, are you ready!
+[Merry Christmas Tree](https://opensea.io/collection/merry-christmas-tree) is a collection of 5,000 unique NFTs that are permanently fixed on Ethereum Blockchain. MERRY CHRISTMAS~A bunch of Christmas Trees are on their way, are you ready!
 
 [![ChristmasTreeBanner.png](https://i.seadn.io/gcs/files/9ad5eeec6f12703c5595a827a411b89f.png?auto=format&w=2048)](https://opensea.io/collection/merry-christmas-tree)
 
 ## 4. ChristmasDeer
-[Merry Christmas with Gift Box ChristmasDeer](https://opensea.io/collection/christmasdeer) is a collection of 5,000 unique NFTs, which are permanently fixed on Ethereum Blockchain. We hope that all of holders have funs with them. In near future, the rwaNFT connected to this collection will be launched.
+[Merry Christmas with Gift Box ChristmasDeer](https://opensea.io/collection/christmasdeer) is a collection of 5,000 unique NFTs that are permanently fixed on Ethereum Blockchain. We hope that all of holders have funs with them. In near future, the rwaNFT connected to this collection will be launched.
 
 [![ChristmasdeerBanner.png](https://i.seadn.io/gcs/files/82c186c35310b6e4266b197a12765ba8.png?auto=format&w=2048)](https://opensea.io/collection/christmasdeer)
 
 ## 3. SantaClaus
-[Merry Christmas with Santa Claus On The Way](https://opensea.io/collection/santa-claus-on-the-way) is a collection of 5,000 unique NFTs, which are permanently fixed on Ethereum Blockchain. We hope that all of holders have funs with them. In near future, the rwaNFT connected to this collection will be launched. MERRY CHRISTMAS～A bunch of bearded Santas are on their way, are you ready！
+[Merry Christmas with Santa Claus On The Way](https://opensea.io/collection/santa-claus-on-the-way) is a collection of 5,000 unique NFTs that are permanently fixed on Ethereum Blockchain. We hope that all of holders have funs with them. In near future, the rwaNFT connected to this collection will be launched. MERRY CHRISTMAS～A bunch of bearded Santas are on their way, are you ready！
 
 [![BannerSantaClaus.png](https://i.seadn.io/gcs/files/18fe1415fc76766640e8ce80112e0a83.png?auto=format&w=2048)](https://opensea.io/collection/santa-claus-on-the-way) 
 
 ## 2. VacuumBear
-[VacuumBear](https://opensea.io/collection/vacuumbear) is a collection of 10,000 unique NFTs, which are permanently fixed on Ethereum Blockchain. It comes from that all of us began to wear masks in year 2020. Masks take big distances among everyone. In near future, the global environment will become better and better. Then we never to live with vacuums again, like a VacuumBear. In near future, the rwaNFT connected to this collection will be launched. We hope all holders have funs with them.
+[VacuumBear](https://opensea.io/collection/vacuumbear) is a collection of 10,000 unique NFTs that are permanently fixed on Ethereum Blockchain. It comes from that all of us began to wear masks in year 2020. Masks take big distances among everyone. In near future, the global environment will become better and better. Then we never to live with vacuums again, like a VacuumBear. In near future, the rwaNFT connected to this collection will be launched. We hope all holders have funs with them.
 
 [![banner BannerVacuumBear](https://i.seadn.io/gcs/files/655afdaac4e43fd657ade13dc226d183.png?auto=format&w=2048)](https://opensea.io/collection/vacuumbear)
  
 ## 1. BandagemanNFT
-[BandagemanNFT](https://opensea.io/collection/bandagemannft) is a collection of 10,000 unique NFTs, which are permanently fixed on Polygon Blockchain. We hope that all of holders have funs with them. In near future, the rwaNFT connected to this collection will be launched.
+[BandagemanNFT](https://opensea.io/collection/bandagemannft) is a collection of 10,000 unique NFTs that are permanently fixed on Polygon Blockchain. We hope that all of holders have funs with them. In near future, the rwaNFT connected to this collection will be launched.
 
 [![banner Bandageman1w](https://i.seadn.io/gcs/files/e63d8ecd668032444de0c548257d1faa.png?auto=format&w=2048)](https://opensea.io/collection/bandagemannft)
 
