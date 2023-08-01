@@ -35,7 +35,7 @@ We are launching several collections of NFTs with the primary aim of bringing he
 [![BannerSantaClaus.png](https://i.seadn.io/gcs/files/18fe1415fc76766640e8ce80112e0a83.png?auto=format&w=2048)](https://opensea.io/collection/santa-claus-on-the-way) 
 
 ## 2. VacuumBear
-[VacuumBear](https://opensea.io/collection/vacuumbear) is a collection of 10,000 unique NFTs that are permanently fixed on Ethereum Blockchain. It comes from that all of us began to wear masks in year 2020. Masks take big distances among everyone. In near future, the global environment will become better and better. Then we never to live with vacuums again, like a VacuumBear. We hope that all holders will have fun with them. In the near future, the rwaNFT connected to this collection will be launched.
+[VacuumBear](https://opensea.io/collection/vacuumbear) is a collection of 10,000 unique NFTs that are permanently fixed on Ethereum Blockchain. It comes from that all of us began to wear masks in year 2020. Masks take big distances among everyone. In the near future, the rwaNFT connected to this collection will be launched.
 
 [![banner BannerVacuumBear](https://i.seadn.io/gcs/files/655afdaac4e43fd657ade13dc226d183.png?auto=format&w=2048)](https://opensea.io/collection/vacuumbear)
  
