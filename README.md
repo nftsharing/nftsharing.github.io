@@ -14,7 +14,7 @@ We are launching several collections of NFTs with the primary aim of bringing he
 
 
 ## 6. Promotion Rabbit
-[Promotion Rabbit](https://opensea.io/collection/promotionrabbit) is a collection of 10,000 unique Rabbit NFTs that are permanently fixed on Ethereum Blockchain. In universe, rabbit means increasing, promotion and new generation. Year 2023 is the Chinese Rabbit Year (2023.2.4-2024.2.3) and the next is 2035. We bless all of you Happy New Year.
+[Promotion Rabbit](https://opensea.io/collection/promotionrabbit) is a collection of 10,000 unique Rabbit NFTs that are permanently fixed on Ethereum Blockchain. In Chinese culture, the rabbit symbolizes growth, promotion, and new beginnings. The year 2023 is the Chinese Year of the Rabbit (2023.2.4-2024.2.3), and the following Year of the Rabbit will be in 2035. We hope that all holders will have fun with them. In the near future, the rwaNFT connected to this collection will be launched.
 
 [![RabbitBanner.png](https://i.seadn.io/gcs/files/4859431bf9ff714e576d3b52b8794333.png?auto=format&w=2048)](https://opensea.io/collection/promotionrabbit)
 
