@@ -65,4 +65,4 @@ We are launching several collections of NFTs with the primary aim of bringing he
 [http://nftsharing.top/2](http://nftsharing.top/2)
 
 ## ▪ Terms & Conditions
-Before purchasing this NFT, please read carefully the [Terms Of Service](http://nftsharing.top/terms/) and the [Terms & Conditions specific to this NFT](http://nftsharing.top/nft-owner-agreement/). This explains all your rights and any restrictions.
+Before purchasing these NFTs, please read carefully the [Terms Of Service](http://nftsharing.top/terms/) and the [Terms & Conditions specific](http://nftsharing.top/nft-owner-agreement/). This explains all your rights and any restrictions.
