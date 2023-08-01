@@ -25,7 +25,7 @@ We are launching several collections of NFTs with the primary aim of bringing he
 [![ChristmasTreeBanner.png](https://i.seadn.io/gcs/files/9ad5eeec6f12703c5595a827a411b89f.png?auto=format&w=2048)](https://opensea.io/collection/merry-christmas-tree)
 
 ## 4. ChristmasDeer
-[Merry Christmas with Gift Box ChristmasDeer](https://opensea.io/collection/christmasdeer) is a collection of 5,000 unique NFTs that are permanently fixed on Ethereum Blockchain. We hope that all holders will have fun with them. In the near future, the rwaNFT connected to this collection will be launched.
+[Merry Christmas with Gift Box ChristmasDeer](https://opensea.io/collection/christmasdeer) is a collection of 5,000 unique NFTs that are permanently fixed on Ethereum Blockchain. We hope that all holders will have fun with them. In the near future, the rwaNFT connected to this collection will be launched. 
 
 [![ChristmasdeerBanner.png](https://i.seadn.io/gcs/files/82c186c35310b6e4266b197a12765ba8.png?auto=format&w=2048)](https://opensea.io/collection/christmasdeer)
 
