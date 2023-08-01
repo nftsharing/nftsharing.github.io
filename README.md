@@ -20,7 +20,7 @@ We are launching several collections of NFTs with the primary aim of bringing he
 
 
 ## 5. Merry Christmas Tree
-[Merry Christmas Tree](https://opensea.io/collection/merry-christmas-tree) is a collection of 5,000 unique NFTs that are permanently fixed on Ethereum Blockchain. MERRY CHRISTMAS~A bunch of Christmas Trees are on their way, are you ready!
+[Merry Christmas Tree](https://opensea.io/collection/merry-christmas-tree) is a collection of 5,000 unique NFTs that are permanently fixed on Ethereum Blockchain. MERRY CHRISTMAS~A bunch of Christmas Trees are on their way, are you ready! In the near future, the rwaNFT connected to this collection will be launched.
 
 [![ChristmasTreeBanner.png](https://i.seadn.io/gcs/files/9ad5eeec6f12703c5595a827a411b89f.png?auto=format&w=2048)](https://opensea.io/collection/merry-christmas-tree)
 
