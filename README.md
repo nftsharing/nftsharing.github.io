@@ -47,7 +47,7 @@ We are launching several collections of NFTs with the primary aim of bringing he
 
 ## ▪ Welcome to join in
 
-[<img title="https://t.me/rwaNFT" src="https://nftsharing.github.io/icon/TG.png" width="45px">](https://t.me/rwaNFT)
+[<img title="https://t.me/nftsharing_community" src="https://nftsharing.github.io/icon/TG.png" width="45px">](https://t.me/nftsharing_community)
 [<img title="https://twitter.com/rwaNFTSharing" src="https://nftsharing.github.io/icon/TW.png" width="45px">](https://twitter.com/rwaNFTSharing)
 [<img title="https://medium.com/@official_wwfem" src="https://nftsharing.github.io/icon/M.png" width="45px">](https://medium.com/@official_wwfem)
 [<img title="https://www.instagram.com/nft_sharing_community" src="https://nftsharing.github.io/icon/IG.png" width="45px">](https://www.instagram.com/nft_sharing_community)
