@@ -20,17 +20,17 @@ We are launching several collections of NFTs with the primary aim of bringing he
 
 
 ## 5. Merry Christmas Tree
-[Merry Christmas Tree](https://opensea.io/collection/merry-christmas-tree) is a collection of 5,000 unique NFTs that are permanently fixed on Ethereum Blockchain. MERRY CHRISTMAS~A bunch of Christmas Trees are on their way, are you ready! In the near future, the rwaNFT connected to this collection will be launched.
+[Merry Christmas Tree](https://opensea.io/collection/merry-christmas-tree) is a collection of 5,000 unique NFTs that are permanently fixed on Ethereum Blockchain. MERRY CHRISTMAS ~ A bunch of Christmas Trees are on their way, are you ready! We hope that all holders will have fun with them. In the near future, the rwaNFT connected to this collection will be launched.
 
 [![ChristmasTreeBanner.png](https://i.seadn.io/gcs/files/9ad5eeec6f12703c5595a827a411b89f.png?auto=format&w=2048)](https://opensea.io/collection/merry-christmas-tree)
 
 ## 4. ChristmasDeer
-[Merry Christmas with Gift Box ChristmasDeer](https://opensea.io/collection/christmasdeer) is a collection of 5,000 unique NFTs that are permanently fixed on Ethereum Blockchain. We hope that all holders will have fun with them. In the near future, the rwaNFT connected to this collection will be launched. 
+[Merry Christmas with Gift Box ChristmasDeer](https://opensea.io/collection/christmasdeer) is a collection of 5,000 unique NFTs that are permanently fixed on Ethereum Blockchain. MERRY CHRISTMAS ~ A bunch of Christmas Deers are on their way, are you ready! We hope that all holders will have fun with them. In the near future, the rwaNFT connected to this collection will be launched.
 
 [![ChristmasdeerBanner.png](https://i.seadn.io/gcs/files/82c186c35310b6e4266b197a12765ba8.png?auto=format&w=2048)](https://opensea.io/collection/christmasdeer)
 
 ## 3. SantaClaus
-[Merry Christmas with Santa Claus On The Way](https://opensea.io/collection/santa-claus-on-the-way) is a collection of 5,000 unique NFTs that are permanently fixed on Ethereum Blockchain. We hope that all holders will have fun with them. In the near future, the rwaNFT connected to this collection will be launched. MERRY CHRISTMAS～A bunch of bearded Santas are on their way, are you ready！
+[Merry Christmas with Santa Claus On The Way](https://opensea.io/collection/santa-claus-on-the-way) is a collection of 5,000 unique NFTs that are permanently fixed on Ethereum Blockchain. MERRY CHRISTMAS ~ A bunch of Christmas Santa Claus are on their way, are you ready! We hope that all holders will have fun with them. In the near future, the rwaNFT connected to this collection will be launched.
 
 [![BannerSantaClaus.png](https://i.seadn.io/gcs/files/18fe1415fc76766640e8ce80112e0a83.png?auto=format&w=2048)](https://opensea.io/collection/santa-claus-on-the-way) 
 
