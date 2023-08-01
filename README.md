@@ -60,9 +60,9 @@ We are launching several collections of NFTs with the primary aim of bringing he
 
 
 
-[https://nftsharing.github.io](https://nftsharing.github.io)
+[http://nftsharing.top](http://nftsharing.top)
 
-[https://nftsharing.github.io/2](https://nftsharing.github.io/2)
+[http://nftsharing.top/2](http://nftsharing.top/2)
 
 ## ▪ Terms & Conditions
-Before purchasing this NFT, please read carefully the [Terms Of Service](https://nftsharing.github.io/terms/) and the [Terms & Conditions specific to this NFT](https://nftsharing.github.io/nft-owner-agreement/). This explains all your rights and any restrictions.
+Before purchasing this NFT, please read carefully the [Terms Of Service](http://nftsharing.top/terms/) and the [Terms & Conditions specific to this NFT](http://nftsharing.top/nft-owner-agreement/). This explains all your rights and any restrictions.
