@@ -20,27 +20,27 @@ We startup several Real World Asset NFT (rwaNFT) collections to bring you health
 
 
 ## 5. Merry Christmas Tree
-[Merry Christmas Tree](https://opensea.io/collection/merry-christmas-tree) is a collection of 5,000 unique NFTs, which are permanently fixed on Polygon Blockchain. MERRY CHRISTMAS~A bunch of Christmas Trees are on their way, are you ready!
+[Merry Christmas Tree](https://opensea.io/collection/merry-christmas-tree) is a collection of 5,000 unique NFTs, which are permanently fixed on Ethereum Blockchain. MERRY CHRISTMAS~A bunch of Christmas Trees are on their way, are you ready!
 
 [![ChristmasTreeBanner.png](https://i.seadn.io/gcs/files/9ad5eeec6f12703c5595a827a411b89f.png?auto=format&w=2048)](https://opensea.io/collection/merry-christmas-tree)
 
 ## 4. ChristmasDeer
-[ChristmasDeer](https://opensea.io/collection/christmasdeer) is a collection of 5,000 unique NFTs. MERRY CHRISTMAS~A bunch of Christmas Deers are on their way, are you ready!
+[Merry Christmas with Gift Box ChristmasDeer](https://opensea.io/collection/christmasdeer) is a collection of 5,000 unique NFTs, which are permanently fixed on Ethereum Blockchain. We hope that all of holders have funs with them. In near future, the rwaNFT connected to this collection will be launched.
 
 [![ChristmasdeerBanner.png](https://i.seadn.io/gcs/files/82c186c35310b6e4266b197a12765ba8.png?auto=format&w=2048)](https://opensea.io/collection/christmasdeer)
 
 ## 3. SantaClaus
-[SantaClaus](https://opensea.io/collection/santa-claus-on-the-way) is a collection of 5,000 unique NFTs, which are permanently fixed on Ethereum Blockchain. MERRY CHRISTMAS~A bunch of bearded Santas are on their way, are you ready!
+[Merry Christmas with Santa Claus On The Way](https://opensea.io/collection/santa-claus-on-the-way) is a collection of 5,000 unique NFTs, which are permanently fixed on Ethereum Blockchain. We hope that all of holders have funs with them. In near future, the rwaNFT connected to this collection will be launched. MERRY CHRISTMAS～A bunch of bearded Santas are on their way, are you ready！
 
 [![BannerSantaClaus.png](https://i.seadn.io/gcs/files/18fe1415fc76766640e8ce80112e0a83.png?auto=format&w=2048)](https://opensea.io/collection/santa-claus-on-the-way) 
 
 ## 2. VacuumBear
-[VacuumBear](https://opensea.io/collection/vacuumbear) is a collection of 10,000 unique NFTs, which are permanently fixed on Ethereum Blockchain. They come from the fact that we wear surgical masks all over the world. Masks make a big distance between everyone. In the future, thing will become well that we don't need to live in vacuums, like a VacuumBear. 
+[VacuumBear](https://opensea.io/collection/vacuumbear) is a collection of 10,000 unique NFTs, which are permanently fixed on Ethereum Blockchain. It comes from that all of us began to wear masks in year 2020. Masks take big distances among everyone. In near future, the global environment will become better and better. Then we never to live with vacuums again, like a VacuumBear. In near future, the rwaNFT connected to this collection will be launched. We hope all holders have funs with them.
 
 [![banner BannerVacuumBear](https://i.seadn.io/gcs/files/655afdaac4e43fd657ade13dc226d183.png?auto=format&w=2048)](https://opensea.io/collection/vacuumbear)
  
 ## 1. BandagemanNFT
-[BandagemanNFT](https://opensea.io/collection/bandagemannft) is a collection of 10,000 unique Bandage Man NFTs, which are permanently fixed on Polygon Blockchain. They come from the idea that we always bond ourselves to hard problems, hope to be free and fear to be forward. We hope these NFTs can help us to find the right way and seek the inner-heart peace.
+[BandagemanNFT](https://opensea.io/collection/bandagemannft) is a collection of 10,000 unique NFTs, which are permanently fixed on Polygon Blockchain. We hope that all of holders have funs with them. In near future, the rwaNFT connected to this collection will be launched.
 
 [![banner Bandageman1w](https://i.seadn.io/gcs/files/e63d8ecd668032444de0c548257d1faa.png?auto=format&w=2048)](https://opensea.io/collection/bandagemannft)
 
