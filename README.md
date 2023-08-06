@@ -48,7 +48,7 @@ We are thrilled to announce the launch of multiple NFT collections, designed to 
 ## ▪ Welcome to join in
 
 [<img title="https://t.me/nftsharingTop" src="https://nftsharing.github.io/icon/TG.png" width="45px">](https://t.me/nftsharingTop)
-[<img title="https://twitter.com/rwaNFTSharing" src="https://nftsharing.github.io/icon/TW.png" width="45px">](https://twitter.com/rwaNFTSharing)
+[<img title="https://twitter.com/nftsharingTop" src="https://nftsharing.github.io/icon/TW.png" width="45px">](https://twitter.com/nftsharingTop)
 [<img title="https://medium.com/@official_wwfem" src="https://nftsharing.github.io/icon/M.png" width="45px">](https://medium.com/@official_wwfem)
 [<img title="https://www.instagram.com/nft_sharing_community" src="https://nftsharing.github.io/icon/IG.png" width="45px">](https://www.instagram.com/nft_sharing_community)
 [<img title="https://discord.com/invite/z5VfEZbnSJ" src="https://nftsharing.github.io/icon/Discord.png" width="45px">](https://discord.com/invite/z5VfEZbnSJ)
