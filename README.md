@@ -1,12 +1,12 @@
 # Welcome to NFT Sharing Top
 We are thrilled to announce the launch of multiple NFT collections, designed to bring boundless joy to our valued users. In the near future, we have exciting plans to introduce Real World Asset NFTs (rwaNFTs) that will be intricately intertwined with these collections. 
 
-## 10. AvatarCoin Collection
+## 10. AvatarCoin
 [AvatarCoin](https://opensea.io/collection/avatarcoin) is a collection of 10,000 unique NFTs, which are permanently fixed on Ethereum Blockchain. Only 2.5% of them have a Heart Accessory and 5% of them have a Cigarette Accessory. We hope that all of holders have funs with them. In near future, the rwaNFT connected to this collection will be launched.
 
 [![banner](https://i.seadn.io/gcs/files/a0d19e27961147b72a106be163f8c781.png?auto=format&dpr=1&w=2048)](https://opensea.io/collection/avatarcoin)
 
-## 9. Sakyamuni NFT Collection
+## 9. Sakyamuni NFT
 [Sakyamuni](https://opensea.io/collection/sakyamuninft) is a collection of 10,000 unique Tangka Style NFTs that are permanently fixed on Ethereum Blockchain. Among them,  fewer than 25% have a golden body, 10% feature a red line, and 20% showcase a gold lotus. We hope that all holders will have fun with them. In the near future, the rwaNFT connected to this collection will be launched.
 
 [![banner](https://i.seadn.io/gcs/files/d2a6aaa39b107dbf7baa3e88fb019f17.png?auto=format&dpr=1&w=2048)](https://opensea.io/collection/sakyamuninft)
