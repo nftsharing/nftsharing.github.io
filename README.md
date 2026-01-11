@@ -3,6 +3,7 @@ We are thrilled to announce the launch of multiple NFT collections, designed to 
 
 ## 10. AvatarCoin
 [AvatarCoin](https://opensea.io/collection/avatarcoin) is a collection of 10,000 unique NFTs, which are permanently fixed on Ethereum Blockchain. Only 2.5% of them have a Heart Accessory and 5% of them have a Cigarette Accessory. We hope that all of holders have funs with them. In near future, the rwaNFT connected to this collection will be launched.
+
 [![banner](https://i.seadn.io/gae/5Y2f9tZJ6W6Z2eT6Q2fG6h6eT5D8tZ2Y8J7tN4d6P5eT7?auto=format&dpr=1&w=2048)](https://opensea.io/collection/avatarcoin)
 [![banner](https://i.seadn.io/gcs/files/031a0d7a6a70a0d664cf4dd416524260.png?auto=format&dpr=1&w=2048)](https://opensea.io/collection/avatarcoin)
 
