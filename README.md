@@ -4,8 +4,8 @@ We are thrilled to announce the launch of multiple NFT collections, designed to 
 ## 10. AvatarCoin
 [AvatarCoin](https://opensea.io/collection/avatarcoin) is a collection of 10,000 unique NFTs, which are permanently fixed on Ethereum Blockchain. Only 2.5% of them have a Heart Accessory and 5% of them have a Cigarette Accessory. We hope that all of holders have funs with them. In near future, the rwaNFT connected to this collection will be launched.
 
-[![banner](https://i.seadn.io/gae/5Y2f9tZJ6W6Z2eT6Q2fG6h6eT5D8tZ2Y8J7tN4d6P5eT7?auto=format&dpr=1&w=2048)](https://opensea.io/collection/avatarcoin)
-[![banner](https://i.seadn.io/gcs/files/031a0d7a6a70a0d664cf4dd416524260.png?auto=format&dpr=1&w=2048)](https://opensea.io/collection/avatarcoin)
+[![banner](logo/Banner.png)](https://opensea.io/collection/avatarcoin)
+
 
 ## 9. Sakyamuni NFT
 [Sakyamuni](https://opensea.io/collection/sakyamuninft) is a collection of 10,000 unique Tangka Style NFTs that are permanently fixed on Ethereum Blockchain. Among them,  fewer than 25% have a golden body, 10% feature a red line, and 20% showcase a gold lotus. We hope that all holders will have fun with them. In the near future, the rwaNFT connected to this collection will be launched.
@@ -64,10 +64,6 @@ We are thrilled to announce the launch of multiple NFT collections, designed to 
 [<img title="https://www.instagram.com/nftsharingTop" src="https://nftsharing.github.io/icon/IG.png" width="45px">](https://www.instagram.com/nftsharingTop)
 [<img title="https://discord.com/invite/z5VfEZbnSJ" src="https://nftsharing.github.io/icon/Discord.png" width="45px">](https://discord.com/invite/z5VfEZbnSJ)
 [<img title="https://www.youtube.com/@nftsharingTop" src="https://nftsharing.github.io/icon/YTB.png" width="45px">](https://www.youtube.com/@nftsharingTop)
-
-<!--
-[<img title="https://mirror.xyz/0x33d45E66E55d8f74AFFAda4a29a8f9876f2Bb5E5" src="https://nftsharing.github.io/icon/mirror.ico" width="45px">](https://mirror.xyz/0x33d45E66E55d8f74AFFAda4a29a8f9876f2Bb5E5)
--->
 
 
 
