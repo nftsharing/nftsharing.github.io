@@ -4,7 +4,8 @@ We are thrilled to announce the launch of multiple NFT collections, designed to 
 ## 10. AvatarCoin
 [AvatarCoin](https://opensea.io/collection/avatarcoin) is a collection of 10,000 unique NFTs, which are permanently fixed on Ethereum Blockchain. Only 2.5% of them have a Heart Accessory and 5% of them have a Cigarette Accessory. We hope that all of holders have funs with them. In near future, the rwaNFT connected to this collection will be launched.
 
-[![banner](logo/Banner.png)](https://opensea.io/collection/avatarcoin)
+<a href="https://opensea.io/collection/avatarcoin"><img src="logo/Banner.png" width="60%" alt="banner"></a>
+
 
 
 ## 9. Sakyamuni NFT
