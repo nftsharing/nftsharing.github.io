@@ -5,7 +5,7 @@ We are thrilled to announce the launch of multiple NFT collections, designed to 
 [AvatarCoin](https://opensea.io/collection/avatarcoin) is a collection of 10,000 unique NFTs, which are permanently fixed on Ethereum Blockchain. Only 2.5% of them have a Heart Accessory and 5% of them have a Cigarette Accessory. We hope that all of holders have funs with them. In near future, the rwaNFT connected to this collection will be launched.
 
 <div align="center">
-  <a href="https://opensea.io/collection/avatarcoin"><img src="logo/Banner.png" width="62%" alt="banner"></a>
+  <a href="https://opensea.io/collection/avatarcoin"><img src="logo/BannerAvatarCoin.png" width="62%" alt="banner"></a>
 </div>
 
 
@@ -13,7 +13,7 @@ We are thrilled to announce the launch of multiple NFT collections, designed to 
 [Sakyamuni](https://opensea.io/collection/sakyamuninft) is a collection of 10,000 unique Tangka Style NFTs that are permanently fixed on Ethereum Blockchain. Among them,  fewer than 25% have a golden body, 10% feature a red line, and 20% showcase a gold lotus. We hope that all holders will have fun with them. In the near future, the rwaNFT connected to this collection will be launched.
 
 <div align="center">
-  <a href="https://opensea.io/collection/sakyamuninft"><img src="logo/Banner.png" width="62%" alt="banner"></a>
+  <a href="https://opensea.io/collection/sakyamuninft"><img src="logo/BannerSakyamuni.png" width="62%" alt="banner"></a>
 </div>
 
 
