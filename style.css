@@ -138,7 +138,7 @@ h1 {
 
 .card-header {
   /* Removed position: relative to allow number to position against card */
-  margin-bottom: 2rem;
+  margin-bottom: 0.5rem;
 }
 
 .card-header h2 {
@@ -147,21 +147,24 @@ h1 {
   font-weight: 800;
   color: white;
   margin: 0;
+  /* Restore center alignment */
   display: flex;
   justify-content: center;
-  /* Center the title */
   align-items: center;
-  position: relative;
+  /* Remove position: relative so number positions relative to card */
+  /* position: relative; */
   width: 100%;
 }
 
 .card-number {
   color: var(--accent);
   position: absolute;
-  top: 1.5rem;
-  left: 1.5rem;
+  top: 0.8rem;
+  /* Moved further up */
+  left: 1rem;
   font-weight: 800;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
+  /* Reduced font size */
   margin-right: 0;
 }
 
@@ -322,14 +325,10 @@ h1 {
   /* On mobile, stack number and title if needed, or keep smaller font */
   .card-header h2 {
     font-size: 1.8rem;
-    flex-direction: column;
-    gap: 0.5rem;
+    /* Removed flex-direction and gap to keep desktop layout */
   }
 
-  .card-number {
-    position: static;
-    /* Stack naturally on mobile */
-  }
+  /* Removed .card-number overrides to keep absolute positioning */
 }
 
 /* Footer */
