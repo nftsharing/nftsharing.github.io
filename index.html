@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,33 +10,45 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
 </head>
+
 <body>
 
     <header>
-        <h1>Welcome to NFT Sharing Top</h1>
-        <p class="intro">
-            We are thrilled to announce the launch of multiple NFT collections, designed to bring boundless joy to our valued users. In the near future, we have exciting plans to introduce Real World Asset NFTs (rwaNFTs) that will be intricately intertwined with these collections.
-        </p>
-        
-        <div class="sort-btn-wrapper">
+        <div class="header-controls">
+            <button id="howto-btn" class="howto-btn">
+                <span class="icon">?</span> How to Collect
+            </button>
+            <div class="spacer"></div>
             <button id="sort-btn" class="sort-btn" aria-label="Toggle Sort Order">
                 <span id="sort-label">Sort: Ascending</span>
                 <span id="sort-icon">⬆</span>
             </button>
         </div>
+
+        <h1>NFT Sharing Ecosystem</h1>
+        <p class="intro">
+            Discover a curated universe of unique NFT collections, each designed to unlock digital ownership and
+            community value.
+            These assets are not just art—they are your gateway to our upcoming <strong>Real World Asset (RWA)</strong>
+            integration,
+            bridging the gap between the physical and digital worlds.
+        </p>
     </header>
 
     <main id="collections-container" class="collections-container">
-        
+
         <!-- Item 1 -->
         <article class="nft-card" data-id="1">
             <div class="card-header">
-                <h2><span class="card-number">1.</span> BandagemanNFT</h2>
+                <h2><span class="card-number">1.</span> <span class="card-title-text">BandagemanNFT</span></h2>
             </div>
             <div class="card-content">
                 <p>
-                    <a href="https://opensea.io/collection/bandagemannft" class="card-title-link">BandagemanNFT</a> 
-                    is a collection of 10,000 unique NFTs that are permanently fixed on Polygon Blockchain. We hope that all holders will have fun with them. In the near future, the rwaNFT connected to this collection will be launched.
+                    <a href="https://opensea.io/collection/bandagemannft" class="card-title-link">BandagemanNFT</a>
+                    is our genesis collection of 10,000 unique digital collectibles immutably minted on the Polygon
+                    Sidechain.
+                    As the foundation of our ecosystem, holding a Bandageman secures your position for future Real World
+                    Asset (RWA) benefits.
                 </p>
             </div>
             <div class="banner-container">
@@ -48,12 +61,14 @@
         <!-- Item 2 -->
         <article class="nft-card" data-id="2">
             <div class="card-header">
-                <h2><span class="card-number">2.</span> VacuumBear</h2>
+                <h2><span class="card-number">2.</span> <span class="card-title-text">VacuumBear</span></h2>
             </div>
             <div class="card-content">
                 <p>
-                    <a href="https://opensea.io/collection/vacuumbear" class="card-title-link">VacuumBear</a> 
-                    is a collection of 10,000 unique NFTs that are permanently fixed on Ethereum Blockchain. It comes from the fact that all of us began to wear masks in year 2020. Masks take big distances among everyone. In the near future, the rwaNFT connected to this collection will be launched.
+                    <a href="https://opensea.io/collection/vacuumbear" class="card-title-link">VacuumBear</a>
+                    is a cultural artifact of the 2020 era, featuring 10,000 unique avatars on the Ethereum Blockchain.
+                    Born from a time when masks created physical distance, VacuumBear brings us together digitally.
+                    Holders will receive priority access to our upcoming RWA platform features.
                 </p>
             </div>
             <div class="banner-container">
@@ -66,12 +81,15 @@
         <!-- Item 3 -->
         <article class="nft-card" data-id="3">
             <div class="card-header">
-                <h2><span class="card-number">3.</span> SantaClaus</h2>
+                <h2><span class="card-number">3.</span> <span class="card-title-text">SantaClaus</span></h2>
             </div>
             <div class="card-content">
                 <p>
-                    <a href="https://opensea.io/collection/santa-claus-on-the-way" class="card-title-link">Merry Christmas with Santa Claus On The Way</a> 
-                    is a collection of 5,000 unique NFTs that are permanently fixed on Ethereum Blockchain. MERRY CHRISTMAS ~ A bunch of Christmas Santa Claus are on their way, are you ready! We hope that all holders will have fun with them. In the near future, the rwaNFT connected to this collection will be launched.
+                    <a href="https://opensea.io/collection/santa-claus-on-the-way" class="card-title-link">Santa Claus
+                        On The Way</a>
+                    is a festive collection of 5,000 unique NFTs on the Ethereum Blockchain.
+                    Immortalizing the spirit of giving, these digital Santas are dashing through the blockchain to
+                    deliver future utility and RWA rewards to their holders.
                 </p>
             </div>
             <div class="banner-container">
@@ -84,12 +102,15 @@
         <!-- Item 4 -->
         <article class="nft-card" data-id="4">
             <div class="card-header">
-                <h2><span class="card-number">4.</span> ChristmasDeer</h2>
+                <h2><span class="card-number">4.</span> <span class="card-title-text">ChristmasDeer</span></h2>
             </div>
             <div class="card-content">
                 <p>
-                    <a href="https://opensea.io/collection/christmasdeer" class="card-title-link">Merry Christmas with Gift Box ChristmasDeer</a> 
-                    is a collection of 5,000 unique NFTs that are permanently fixed on Ethereum Blockchain. MERRY CHRISTMAS ~ A bunch of Christmas Deers are on their way, are you ready! We hope that all holders will have fun with them. In the near future, the rwaNFT connected to this collection will be launched.
+                    <a href="https://opensea.io/collection/christmasdeer" class="card-title-link">ChristmasDeer with
+                        Gift Box</a>
+                    is a limited holiday series of 5,000 unique NFTs on the Ethereum Blockchain.
+                    Each deer carries a digital gift box, symbolizing the surprise bonuses and RWA ecosystem perks
+                    awaiting our community members.
                 </p>
             </div>
             <div class="banner-container">
@@ -102,12 +123,16 @@
         <!-- Item 5 -->
         <article class="nft-card" data-id="5">
             <div class="card-header">
-                <h2><span class="card-number">5.</span> Merry Christmas Tree</h2>
+                <h2><span class="card-number">5.</span> <span class="card-title-text">Christmas Tree</span></h2>
             </div>
             <div class="card-content">
                 <p>
-                    <a href="https://opensea.io/collection/merry-christmas-tree" class="card-title-link">Merry Christmas Tree</a> 
-                    is a collection of 5,000 unique NFTs that are permanently fixed on Ethereum Blockchain. MERRY CHRISTMAS ~ A bunch of Christmas Trees are on their way, are you ready! We hope that all holders will have fun with them. In the near future, the rwaNFT connected to this collection will be launched.
+                    <a href="https://opensea.io/collection/merry-christmas-tree" class="card-title-link">Merry Christmas
+                        Tree</a>
+                    features 5,000 unique artistic interpretations of the holiday classic, stored eternally on the
+                    Ethereum Blockchain.
+                    Plant a tree in your wallet today and watch your rewards grow as we roll out our Real World Asset
+                    infrastructure.
                 </p>
             </div>
             <div class="banner-container">
@@ -120,12 +145,15 @@
         <!-- Item 6 -->
         <article class="nft-card" data-id="6">
             <div class="card-header">
-                <h2><span class="card-number">6.</span> Promotion Rabbit</h2>
+                <h2><span class="card-number">6.</span> <span class="card-title-text">Promotion Rabbit</span></h2>
             </div>
             <div class="card-content">
                 <p>
-                    <a href="https://opensea.io/collection/promotionrabbit" class="card-title-link">Promotion Rabbit</a> 
-                    is a collection of 10,000 unique Rabbit NFTs that are permanently fixed on Ethereum Blockchain. In Chinese culture, the rabbit symbolizes growth, promotion, and new beginnings. The year 2023 is the Chinese Year of the Rabbit (2023.2.4-2024.2.3), and the following Year of the Rabbit will be in 2035. We hope that all holders will have fun with them. In the near future, the rwaNFT connected to this collection will be launched.
+                    <a href="https://opensea.io/collection/promotionrabbit" class="card-title-link">Promotion Rabbit</a>
+                    is a talisman for success, featuring 10,000 unique avatars on the Ethereum Blockchain.
+                    In Eastern culture, the rabbit symbolizes growth, longevity, and prosperity.
+                    Holding this NFT is a digital charm for career advancement and grants access to the wealth of our
+                    future RWA ecosystem.
                 </p>
             </div>
             <div class="banner-container">
@@ -138,12 +166,15 @@
         <!-- Item 7 -->
         <article class="nft-card" data-id="7">
             <div class="card-header">
-                <h2><span class="card-number">7.</span> Bandageman on Valentine's Day</h2>
+                <h2><span class="card-number">7.</span> <span class="card-title-text">Bandageman Valentine</span></h2>
             </div>
             <div class="card-content">
                 <p>
-                    <a href="https://opensea.io/collection/bandageman-valentine-day" class="card-title-link">Bandageman on Valentine's Day</a> 
-                    is a collection of 10,000 unique NFTs that are permanently fixed on Polygon Blockchain. Among them, fewer than 30% have a flower background, 10% feature a love eye, and 20% showcase a bunch of roses. We hope that all holders will have fun with them. In the near future, the rwaNFT connected to this collection will be launched.
+                    <a href="https://opensea.io/collection/bandageman-valentine-day" class="card-title-link">Bandageman
+                        on Valentine's Day</a>
+                    is a romantic series of 10,000 unique NFTs on the Polygon Blockchain.
+                    Hunt for rare traits like the "Flower Background" (30%) or the coveted "Love Eye" (10%).
+                    A perfect digital asset to celebrate love and unlock future rewards in our roadmap.
                 </p>
             </div>
             <div class="banner-container">
@@ -156,12 +187,15 @@
         <!-- Item 8 -->
         <article class="nft-card" data-id="8">
             <div class="card-header">
-                <h2><span class="card-number">8.</span> StampAI</h2>
+                <h2><span class="card-number">8.</span> <span class="card-title-text">StampAI</span></h2>
             </div>
             <div class="card-content">
                 <p>
-                    <a href="https://opensea.io/collection/stampai" class="card-title-link">StampAI</a> 
-                    is a collection of 24 unique NFTs generated by AI prompt automatically. These NFTs represent the secret Chinese zodiac and have all been permanently recorded on the Ethereum Blockchain. Here are their names: Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Goat, Monkey, Rooster, Dog, Pig.
+                    <a href="https://opensea.io/collection/stampai" class="card-title-link">StampAI</a>
+                    is an ultra-exclusive collection of just 24 AI-generated masterpieces on Ethereum.
+                    Merging traditional Chinese Zodiac seals with cutting-edge generative AI, this series is for the
+                    discerning collector.
+                    Each piece—from the Rat to the Pig—is a unique fusion of history and technology.
                 </p>
             </div>
             <div class="banner-container">
@@ -174,12 +208,15 @@
         <!-- Item 9 -->
         <article class="nft-card" data-id="9">
             <div class="card-header">
-                <h2><span class="card-number">9.</span> Sakyamuni NFT</h2>
+                <h2><span class="card-number">9.</span> <span class="card-title-text">Sakyamuni NFT</span></h2>
             </div>
             <div class="card-content">
                 <p>
-                    <a href="https://opensea.io/collection/sakyamuninft" class="card-title-link">Sakyamuni</a> 
-                    is a collection of 10,000 unique Tangka Style NFTs that are permanently fixed on Ethereum Blockchain. Among them, fewer than 25% have a golden body, 10% feature a red line, and 20% showcase a gold lotus. We hope that all holders will have fun with them. In the near future, the rwaNFT connected to this collection will be launched.
+                    <a href="https://opensea.io/collection/sakyamuninft" class="card-title-link">Sakyamuni</a>
+                    is a spiritual collection of 10,000 Thangka-style NFTs on the Ethereum Blockchain.
+                    Discover divine rarity: only 25% possess the 'Golden Body', while 10% feature the 'Red Line'.
+                    This collection blends digital permanence with ancient artistry, offering holders a path to future
+                    RWA enlightenment.
                 </p>
             </div>
             <div class="banner-container">
@@ -192,12 +229,15 @@
         <!-- Item 10 -->
         <article class="nft-card" data-id="10">
             <div class="card-header">
-                <h2><span class="card-number">10.</span> AvatarCoin</h2>
+                <h2><span class="card-number">10.</span> <span class="card-title-text">AvatarCoin</span></h2>
             </div>
             <div class="card-content">
                 <p>
-                    <a href="https://opensea.io/collection/avatarcoin" class="card-title-link">AvatarCoin</a> 
-                    is a collection of 10,000 unique NFTs, which are permanently fixed on Ethereum Blockchain. Only 2.5% of them have a Heart Accessory and 5% of them have a Cigarette Accessory. We hope that all of holders have funs with them. In near future, the rwaNFT connected to this collection will be launched.
+                    <a href="https://opensea.io/collection/avatarcoin" class="card-title-link">AvatarCoin</a>
+                    is a premium PFP collection of 10,000 unique identities on the Ethereum Blockchain.
+                    Rarity hunters should look for the 'Heart Accessory' (2.5%) or 'Cigarette' (5%).
+                    Owning an AvatarCoin is your membership card to our evolving ecosystem and upcoming Real World Asset
+                    drops.
                 </p>
             </div>
             <div class="banner-container">
@@ -210,29 +250,103 @@
     </main>
 
     <footer>
-        <h3 class="join-title">▪ Welcome to join in</h3>
+        <h3 class="join-title">▪ Join Our Community</h3>
         <div class="social-links">
-            <a href="https://t.me/nftsharingTop" title="https://t.me/nftsharingTop"><img src="icon/TG.png" alt="Telegram"></a>
-            <a href="https://twitter.com/nftsharingTop" title="https://twitter.com/nftsharingTop"><img src="icon/TW.png" alt="Twitter"></a>
-            <a href="https://medium.com/@nftsharingTop" title="https://medium.com/@nftsharingTop"><img src="icon/M.png" alt="Medium"></a>
-            <a href="https://www.instagram.com/nftsharingTop" title="https://www.instagram.com/nftsharingTop"><img src="icon/IG.png" alt="Instagram"></a>
-            <a href="https://discord.com/invite/z5VfEZbnSJ" title="https://discord.com/invite/z5VfEZbnSJ"><img src="icon/Discord.png" alt="Discord"></a>
-            <a href="https://www.youtube.com/@nftsharingTop" title="https://www.youtube.com/@nftsharingTop"><img src="icon/YTB.png" alt="YouTube"></a>
+            <a href="https://t.me/nftsharingTop" title="Telegram" class="social-link-tg">
+                <svg viewBox="0 0 24 24">
+                    <path
+                        d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.48-.94-2.4-1.54-1.06-.7.53-1.09 1.14-1.71.16-.16 2.94-2.69 3-2.82.01-.02.01-.15-.06-.21-.07-.06-.17-.04-.25-.02-.11.02-1.78 1.13-5 3.31-.48.33-.9.49-1.28.48-.42-.01-1.23-.24-1.83-.44-.73-.24-1.31-.37-1.26-.78.03-.21.32-.43.89-.66 3.5-1.51 5.83-2.51 6.99-2.99 3.33-1.38 4.03-1.23 4.47-1.23.1 0 .32.02.47.14.12.11.16.27.17.42 0 .07 0 .27-.02.43z" />
+                </svg>
+            </a>
+            <a href="https://twitter.com/nftsharingTop" title="X (Twitter)" class="social-link-x">
+                <svg viewBox="0 0 24 24">
+                    <path
+                        d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
+                </svg>
+            </a>
+            <a href="https://medium.com/@nftsharingTop" title="Medium" class="social-link-medium">
+                <svg viewBox="0 0 24 24">
+                    <path
+                        d="M13.54 12a6.8 6.8 0 0 1-6.77 6.82A6.8 6.8 0 0 1 0 12a6.8 6.8 0 0 1 6.77-6.82A6.8 6.8 0 0 1 13.54 12zM20.96 12c0 3.54-1.51 6.42-3.38 6.42-1.87 0-3.39-2.88-3.39-6.42s1.52-6.42 3.39-6.42 3.38 2.88 3.38 6.42M24 12c0 3.17-.53 5.75-1.19 5.75-.66 0-1.19-2.58-1.19-5.75s.53-5.75 1.19-5.75C23.47 6.25 24 8.83 24 12z" />
+                </svg>
+            </a>
+            <a href="https://www.instagram.com/nftsharingTop" title="Instagram" class="social-link-ig">
+                <svg viewBox="0 0 24 24">
+                    <path
+                        d="M7.8 2h8.4C19.4 2 22 4.6 22 7.8v8.4a5.8 5.8 0 0 1-5.8 5.8H7.8C4.6 22 2 19.4 2 16.2V7.8A5.8 5.8 0 0 1 7.8 2m-.2 2A3.6 3.6 0 0 0 4 7.6v8.8C4 18.39 5.61 20 7.6 20h8.8a3.6 3.6 0 0 0 3.6-3.6V7.6C20 5.61 18.39 4 16.4 4H7.6m9.65 1.5a1.25 1.25 0 0 1 1.25 1.25A1.25 1.25 0 0 1 17.25 8 1.25 1.25 0 0 1 16 6.75a1.25 1.25 0 0 1 1.25-1.25M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3z" />
+                </svg>
+            </a>
+            <a href="https://discord.com/invite/z5VfEZbnSJ" title="Discord" class="social-link-discord">
+                <svg viewBox="0 0 24 24">
+                    <path
+                        d="M20.317 4.37a19.791 19.791 0 0 0-4.885-1.515.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0 12.64 12.64 0 0 0-.617-1.25.077.077 0 0 0-.079-.037A19.736 19.736 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057 19.9 19.9 0 0 0 5.993 3.03.078.078 0 0 0 .084-.028 14.09 14.09 0 0 0 1.226-1.994.076.076 0 0 0-.041-.106 13.107 13.107 0 0 1-1.872-.892.077.077 0 0 1-.008-.128 10.2 10.2 0 0 0 .372-.292.074.074 0 0 1 .077-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 0 1 .078.01c.12.098.246.198.373.292a.077.077 0 0 1-.006.127 12.299 12.299 0 0 1-1.873.892.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028 19.839 19.839 0 0 0 6.002-3.03.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 0 0-.031-.03zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.956-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.956 2.418-2.157 2.418zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.955-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.946 2.418-2.157 2.418z" />
+                </svg>
+            </a>
+            <a href="https://www.youtube.com/@nftsharingTop" title="YouTube" class="social-link-yt">
+                <svg viewBox="0 0 24 24">
+                    <path
+                        d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" />
+                </svg>
+            </a>
         </div>
 
-        <nav class="footer-nav">
-            <a href="http://nftsharing.top">http://nftsharing.top</a>
-            <a href="http://nftsharing.top/2">http://nftsharing.top/2</a>
-            <div>
-                <h3>Terms & Conditions</h3>
-                <p>Before purchasing these NFTs, please read carefully the</p>
-                <a href="http://nftsharing.top/terms/">Terms Of Service</a>
-                <span>and the</span>
-                <a href="http://nftsharing.top/nft-owner-agreement/">Terms & Conditions specific</a>
+        <div class="footer-actions">
+            <h3 class="join-title">▪ Bookmark & Share</h3>
+            <div class="action-buttons">
+                <button id="bookmark-btn" class="action-btn">
+                    <span class="icon">★</span> Bookmark
+                </button>
+                <button id="share-x-btn" class="action-btn">
+                    <span class="icon">𝕏</span> Share on X
+                </button>
+                <button id="share-copy-btn" class="action-btn">
+                    <span class="icon">🔗</span> Copy Link
+                </button>
+                <a href="http://nftsharing.top" class="action-btn" style="text-decoration: none;">
+                    <span class="icon">🌐</span> nftsharing.top
+                </a>
+                <a href="http://nftsharing.top/2" class="action-btn" style="text-decoration: none;">
+                    <span class="icon">🌐</span> nftsharing.top/2
+                </a>
             </div>
-        </nav>
+        </div>
+
+        <div class="footer-terms">
+            <h3 class="join-title">▪ Terms & Conditions</h3>
+            <div class="terms-content">
+                <p>Before purchasing these NFTs, please read carefully the <a href="http://nftsharing.top/terms/">Terms
+                        Of Service</a> and the <a href="http://nftsharing.top/nft-owner-agreement/">Terms & Conditions
+                        specific</a>.</p>
+            </div>
+        </div>
     </footer>
 
+    <div id="howto-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <h2>How to Collect</h2>
+            <div class="steps-container">
+                <div class="step">
+                    <div class="step-num">1</div>
+                    <p><strong>Select a Project:</strong> Browse the collections below and pick one that resonates with
+                        you.</p>
+                </div>
+                <div class="step">
+                    <div class="step-num">2</div>
+                    <p><strong>Visit OpenSea:</strong> Click the card or the project link to go to the official official
+                        OpenSea page.</p>
+                </div>
+                <div class="step">
+                    <div class="step-num">3</div>
+                    <p><strong>Connect & Buy:</strong> Connect your crypto wallet (like MetaMask) to OpenSea and
+                        purchase your chosen NFT.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="toast">Press Ctrl+D to bookmark this page</div>
     <script src="script.js"></script>
 </body>
+
 </html>

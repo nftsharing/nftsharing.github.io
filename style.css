@@ -19,7 +19,8 @@ body {
 
 /* Header */
 header {
-  padding: 4rem 2rem;
+  padding: 4rem 2rem 2rem;
+  /* Reduced bottom padding */
   text-align: center;
   position: relative;
   max-width: 1200px;
@@ -43,14 +44,21 @@ h1 {
   color: var(--text-secondary);
 }
 
-/* Sort Button */
-.sort-btn-wrapper {
+/* Header Controls */
+.header-controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   position: absolute;
   top: 2rem;
-  right: 2rem;
+  left: 0;
+  width: 100%;
+  padding: 0 2rem;
+  box-sizing: border-box;
   z-index: 10;
 }
 
+.howto-btn,
 .sort-btn {
   background: rgba(255, 255, 255, 0.1);
   border: 1px solid rgba(255, 255, 255, 0.2);
@@ -66,16 +74,27 @@ h1 {
   gap: 0.5rem;
   font-size: 0.9rem;
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  text-decoration: none;
 }
 
+.howto-btn:hover,
 .sort-btn:hover {
   background: rgba(255, 255, 255, 0.2);
   transform: translateY(-2px);
   box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
 }
 
-.sort-btn icon-arrow {
-    transition: transform 0.3s;
+.howto-btn .icon {
+  background: var(--accent);
+  color: white;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.75rem;
+  font-weight: bold;
 }
 
 /* Collections Grid */
@@ -85,7 +104,8 @@ h1 {
   gap: 3rem;
   max-width: 900px;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 1rem 2rem 2rem;
+  /* Reduced top padding */
 }
 
 .nft-card {
@@ -100,14 +120,14 @@ h1 {
 }
 
 .nft-card::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(45deg, transparent 0%, rgba(255,255,255,0.03) 100%);
-    pointer-events: none;
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(45deg, transparent 0%, rgba(255, 255, 255, 0.03) 100%);
+  pointer-events: none;
 }
 
 .nft-card:hover {
@@ -116,29 +136,47 @@ h1 {
   box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
 }
 
-.card-number {
-  font-size: 0.875rem;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: var(--accent);
-  margin-bottom: 0.5rem;
-  font-weight: 700;
-  display: block;
+.card-header {
+  /* Removed position: relative to allow number to position against card */
+  margin-bottom: 2rem;
 }
 
 .card-header h2 {
-  font-size: 2rem;
-  font-weight: 700;
+  font-size: 2.5rem;
+  /* Increased size for impact */
+  font-weight: 800;
   color: white;
-  margin: 0 0 1.5rem 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  /* Center the title */
+  align-items: center;
+  position: relative;
+  width: 100%;
+}
+
+.card-number {
+  color: var(--accent);
+  position: absolute;
+  top: 1.5rem;
+  left: 1.5rem;
+  font-weight: 800;
+  font-size: 1.5rem;
+  margin-right: 0;
+}
+
+.card-title-text {
+  /* Explicitly centered by flex container */
+  text-align: center;
 }
 
 .card-title-link {
-    color: inherit;
-    text-decoration: none;
+  color: inherit;
+  text-decoration: none;
 }
+
 .card-title-link:hover {
-    color: var(--accent);
+  color: var(--accent);
 }
 
 .card-content {
@@ -149,16 +187,16 @@ h1 {
 }
 
 .banner-container {
-    width: 100%;
-    border-radius: 1rem;
-    overflow: hidden;
-    background: rgba(0,0,0,0.2);
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  border-radius: 1rem;
+  overflow: hidden;
+  background: rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
 }
 
 .banner-container a {
-    display: block;
-    width: 100%;
+  display: block;
+  width: 100%;
 }
 
 .banner-container img {
@@ -172,19 +210,143 @@ h1 {
   transform: scale(1.03);
 }
 
+/* Modal Styles */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 100;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(5px);
+  animation: fadeIn 0.3s;
+}
+
+.modal-content {
+  background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+  margin: 10% auto;
+  padding: 3rem;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  width: 90%;
+  max-width: 600px;
+  border-radius: 1.5rem;
+  position: relative;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+  color: var(--text-primary);
+  animation: slideDown 0.3s;
+}
+
+.close-modal {
+  color: var(--text-secondary);
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+
+.close-modal:hover,
+.close-modal:focus {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.steps-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.step {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  background: rgba(255, 255, 255, 0.03);
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+.step-num {
+  background: var(--primary);
+  color: white;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  flex-shrink: 0;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideDown {
+  from {
+    transform: translateY(-20px);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  .nft-card {
+    padding: 1.5rem;
+  }
+
+  .header-controls {
+    padding: 0 1rem;
+  }
+
+  /* On mobile, stack number and title if needed, or keep smaller font */
+  .card-header h2 {
+    font-size: 1.8rem;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .card-number {
+    position: static;
+    /* Stack naturally on mobile */
+  }
+}
+
 /* Footer */
 footer {
   text-align: center;
-  padding: 6rem 2rem;
-  background: linear-gradient(to top, rgba(0,0,0,0.3), transparent);
-  margin-top: 4rem;
+  padding: 3rem 2rem 6rem;
+  /* Reduced top padding from 6rem to 3rem */
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.3), transparent);
+  margin-top: 2rem;
+  /* Reduced margin-top from 4rem to 2rem */
 }
 
 .join-title {
-    font-size: 1.5rem;
-    font-weight: 600;
-    margin-bottom: 2rem;
-    color: var(--text-primary);
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 2rem;
+  color: var(--text-primary);
 }
 
 .social-links {
@@ -196,45 +358,134 @@ footer {
 }
 
 .social-links a {
-    display: block;
-    transition: transform 0.2s;
+  display: block;
+  transition: transform 0.2s;
 }
 
 .social-links a:hover {
-    transform: translateY(-5px);
+  transform: translateY(-5px);
 }
 
-.social-links img {
-  width: 45px;
-  height: 45px;
-  filter: drop-shadow(0 4px 6px rgba(0,0,0,0.2));
+.social-links svg {
+  width: 48px;
+  /* Increased size */
+  height: 48px;
+  fill: currentColor;
+  /* Use text color by default */
+  transition: all 0.3s ease;
 }
 
-.footer-nav {
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-    color: var(--text-secondary);
+/* Brand Colors */
+.social-link-tg {
+  color: #229ED9;
 }
 
-.footer-nav a {
-    color: var(--text-secondary);
-    font-size: 0.95rem;
+.social-link-x {
+  color: white;
 }
 
-.footer-nav a:hover {
-    color: var(--accent);
-    text-decoration: underline;
+.social-link-medium {
+  color: white;
 }
 
-@media (max-width: 768px) {
-    h1 { font-size: 2.5rem; }
-    .nft-card { padding: 1.5rem; }
-    .sort-btn-wrapper { 
-        position: relative; 
-        top: 0; right: 0; 
-        display: flex; 
-        justify-content: center; 
-        margin-bottom: 2rem;
-    }
+.social-link-ig {
+  color: #E1306C;
+}
+
+.social-link-discord {
+  color: #5865F2;
+}
+
+.social-link-yt {
+  color: #FF0000;
+}
+
+.social-links a:hover {
+  transform: translateY(-5px);
+  filter: brightness(1.2);
+}
+
+/* Toast Notification */
+#toast {
+  visibility: hidden;
+  min-width: 250px;
+  background-color: var(--accent);
+  color: white;
+  text-align: center;
+  border-radius: 8px;
+  padding: 16px;
+  position: fixed;
+  z-index: 1000;
+  left: 50%;
+  bottom: 30px;
+  transform: translateX(-50%);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  font-size: 1rem;
+  font-weight: 600;
+  opacity: 0;
+  transition: opacity 0.3s, bottom 0.3s;
+}
+
+#toast.show {
+  visibility: visible;
+  opacity: 1;
+  bottom: 50px;
+}
+
+/* Footer Actions */
+.footer-actions {
+  margin-bottom: 2rem;
+  margin-top: 1rem;
+  /* Reduced spacing */
+  /* border-top removed as requested */
+  padding-top: 0;
+}
+
+.action-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.action-btn {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: var(--text-secondary);
+  padding: 0.4rem 0.8rem;
+  /* Further reduced padding */
+  border-radius: 9999px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: 0.8rem;
+  /* Further reduced font size */
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.action-btn:hover {
+  background: rgba(255, 255, 255, 0.15);
+  color: white;
+  transform: translateY(-2px);
+  border-color: var(--accent);
+}
+
+.action-btn .icon {
+  font-size: 1.1rem;
+}
+
+/* Footer Terms */
+.footer-terms {
+  margin-top: 3rem;
+  color: var(--text-secondary);
+}
+
+.terms-content a {
+  color: var(--text-secondary);
+  text-decoration: underline;
+}
+
+.terms-content a:hover {
+  color: var(--accent);
 }
