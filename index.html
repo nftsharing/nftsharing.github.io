@@ -1,13 +1,13 @@
-<script>
-// 如果访问的是 nft.nftsharing.top，自动跳转到 index_nftsharing.html
-if (window.location.host === 'nft.nftsharing.top') {
-    window.location.replace('/index_nftsharing.html');
-}
-</script>
 <!DOCTYPE html>
 <html lang="zh-CN">
-
 <head>
+    <script>
+        // 强制判断：只要是 nft.nftsharing.top 访问，立刻跳转
+        if (location.host.includes('nft.nftsharing.top')) {
+            location.href = 'https://nft.nftsharing.top/index_nftsharing.html';
+        }
+    </script>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MyAI 禅意生活 - 数字化情感疗愈工作室</title>
@@ -174,8 +174,7 @@ if (window.location.host === 'nft.nftsharing.top') {
     </div>
 
     <div class="footer">
-        © 2026 有道 AI 工作室 (MyAI Studio) | 数字化情感疗愈领航者
+        © 2026 有道 AI工作室 (MyAI Studio) | 数字化情感疗愈领航者
     </div>
 </body>
-
 </html>
