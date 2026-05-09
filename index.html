@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
-<head>
 
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MyAI 禅意生活 - 数字化情感疗愈工作室</title>
+    <link rel="icon" href="ico_s.jpg" type="image/jpeg">
     <style>
         body {
             font-family: 'PingFang SC', 'Microsoft YaHei', sans-serif;
@@ -21,6 +22,68 @@
             text-align: center;
             border-bottom: 1px solid #e0e0e0;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.02);
+            position: relative;
+        }
+
+        /* 右上角导航下拉 */
+        .nav-dropdown {
+            position: absolute;
+            top: 16px;
+            right: 20px;
+        }
+
+        .nav-dropdown-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            background: #8e44ad;
+            color: #fff;
+            border: none;
+            border-radius: 8px;
+            padding: 8px 16px;
+            font-size: 14px;
+            font-family: 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            cursor: pointer;
+            user-select: none;
+            letter-spacing: 0.5px;
+        }
+
+        .nav-dropdown-btn::after {
+            content: '▾';
+            font-size: 12px;
+        }
+
+        .nav-dropdown-menu {
+            display: none;
+            position: absolute;
+            top: calc(100% + 4px);
+            right: 0;
+            background: #fff;
+            border: 1px solid #e0e0e0;
+            border-radius: 10px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+            min-width: 160px;
+            overflow: hidden;
+            z-index: 999;
+        }
+
+        .nav-dropdown.open .nav-dropdown-menu {
+            display: block;
+        }
+
+        .nav-dropdown-menu a {
+            display: block;
+            padding: 12px 18px;
+            font-size: 14px;
+            text-decoration: none;
+            white-space: nowrap;
+            color: #2c3e50;
+            transition: background 0.15s;
+        }
+
+        .nav-dropdown-menu a:hover {
+            background: #f3eaf8;
+            color: #8e44ad;
         }
 
         .container {
@@ -128,21 +191,39 @@
 
 <body>
     <header>
+        <!-- 右上角：有道排盘导航下拉 -->
+        <!-- <div class="nav-dropdown" id="navDropdown">
+            <button class="nav-dropdown-btn" id="navDropdownBtn">有道排盘</button>
+            <div class="nav-dropdown-menu" id="navDropdownMenu">
+                <a href="https://liuyao.youdaopaipan.com" target="_blank">六爻排盘</a>
+            </div>
+        </div> -->
         <h1>MyAI 禅意生活</h1>
         <p class="subtitle">基于 AI 情绪识别算法，为您匹配专属的情感慰藉方案</p>
+        <p class="subtitle">
+            <a href="https://liuyao.nftsharing.top" target="_blank" style="color: rgb(20, 178, 218);">有道六爻排盘</a>
+
+        </p>
+        <!-- <p class="subtitle">
+            <a href="https://liuyao.youdaopaipan.com" target="_blank" style="color: rgb(20, 178, 218);">有道六爻排盘</a>
+            &nbsp;&nbsp;&nbsp;
+            <a href="https://bazi.youdaopaipan.com" target="_blank" style="color: rgb(20, 178, 218);">有道八字排盘</a>
+        </p> -->
+
     </header>
 
     <div class="container">
         <div class="about-section">
             <h2>关于我们</h2>
             <p>我们致力于通过人工智能算法分析用户情绪，结合心理学模型，为现代都市压力人群推荐最合适的材质与色泽手串。每一件工艺品都经过 AI 逻辑优化，旨在达成触觉、视觉与情感的深度共鸣。</p>
+
         </div>
 
         <h2>热销产品：AI 定制系列</h2>
         <div class="product-grid">
             <div class="product-card">
                 <div class="product-img-box">
-                    <img src="1.png" alt="定制手串 1">
+                    <img src="1.jpg" alt="定制手串 1">
                 </div>
                 <div class="product-info">
                     <h3>【沉静】AI 定制黑檀系列</h3>
@@ -152,7 +233,7 @@
 
             <div class="product-card">
                 <div class="product-img-box">
-                    <img src="2.png" alt="定制手串 2">
+                    <img src="2.jpg" alt="定制手串 2">
                 </div>
                 <div class="product-info">
                     <h3>【灵感】AI 逻辑配色款</h3>
@@ -163,12 +244,36 @@
 
         <h2>技术支持</h2>
         <div class="about-section">
-            <p>本平台通过接口实时调用情绪评估模型。所有订单均经过合规化处理。我们支持支付宝官方当面付接口，确保每一笔交易安全透明。</p>
+            <p>本平台通过接口实时调用情绪评估模型。所有订单均经过合规化处理。我们支持支付宝官方当面付接口，确保每一笔交易安全透明。
+            </p>
+
         </div>
     </div>
 
     <div class="footer">
-        © 2026 有道 AI工作室 (MyAI Studio) | 数字化情感疗愈领航者
+        © 2026 有道 AI 工作室 (MyAI Studio) | 数字化情感疗愈领航者
     </div>
+
+    <script>
+        const navDropdown = document.getElementById('navDropdown');
+        const navBtn = document.getElementById('navDropdownBtn');
+
+        // 点击按钮切换展开/收起
+        navBtn.addEventListener('click', function (e) {
+            e.stopPropagation();
+            navDropdown.classList.toggle('open');
+        });
+
+        // 点击页面其他地方关闭菜单
+        document.addEventListener('click', function () {
+            navDropdown.classList.remove('open');
+        });
+
+        // 点击菜单内部不关闭（让链接正常跳转）
+        document.getElementById('navDropdownMenu').addEventListener('click', function (e) {
+            e.stopPropagation();
+        });
+    </script>
 </body>
+
 </html>
